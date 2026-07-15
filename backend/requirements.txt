@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+akshare
+pandas
+numpy
+requests
+python-dotenv
+pydantic
